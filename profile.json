@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "login": "Nelxi",
+  "seed": "#8A66FF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "Nelxi",
+    "subtitle": "Делаю Ghostly VPN — интернет без границ, даже при белых списках.\nКроссплатформенные клиенты на Kotlin · обход DPI · UI/UX",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Уфа, Россия"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Ghostly VPN"
+      }
+    ]
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/GhostlyVPNruBot"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Nelxi/ghostly-vpn"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик клиентов и сетевых систем"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Ghostly VPN — открытый VPN-клиент и сервис ghostlynex.fun"
+      },
+      {
+        "icon": "public",
+        "label": "Обход DPI: VLESS · Reality · XHTTP · Hysteria2 · CDN"
+      },
+      {
+        "icon": "palette",
+        "label": "Люблю, когда сложное выглядит просто и красиво"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Основное",
+        "items": [
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Compose Multiplatform"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Сеть и серверы",
+        "items": [
+          {
+            "icon": "deployed_code",
+            "label": "Xray"
+          },
+          {
+            "icon": "deployed_code",
+            "label": "mihomo"
+          },
+          {
+            "icon": "cloud",
+            "label": "Nginx"
+          },
+          {
+            "icon": "brand:yandexcloud",
+            "label": "Yandex Cloud CDN"
+          }
+        ]
+      },
+      {
+        "title": "Инструменты",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "terminal",
+            "label": "Gradle"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "ghostly-vpn",
+      "AntiCrash-1.21.4",
+      "NeuroVika"
+    ],
+    "overrides": {
+      "ghostly-vpn": {
+        "text": "Открытый VPN-клиент на Xray и mihomo для Android, Windows, macOS и Linux — с живой ночной сценой",
+        "icon": "rocket_launch"
+      },
+      "AntiCrash-1.21.4": {
+        "text": "Fabric-мод: защищает игрока Minecraft от серверных эксплойтов",
+        "icon": "sports_esports"
+      },
+      "NeuroVika": {
+        "text": "Личный проект: делался для себя, чтобы просто общаться",
+        "icon": "favorite"
+      }
+    },
+    "empty": "Пока без описания.",
+    "fork": "Форк"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд",
+    "contributions": "Вклад за год",
+    "repos": "Публичных репозиториев",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Сейчас",
+    "longest": "Лучшая за год",
+    "days": "дн."
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "ghostlynex.fun",
+        "url": "https://ghostlynex.fun",
+        "style": "filled"
+      },
+      {
+        "icon": "download",
+        "label": "Скачать Ghostly",
+        "url": "https://github.com/Nelxi/ghostly-vpn/releases/latest",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "https://github.com/Nelxi?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
