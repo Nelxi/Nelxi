@@ -1,0 +1,210 @@
+{
+ "key": "21299a9",
+ "stars": 5,
+ "contributions": 113,
+ "repos": 5,
+ "followers": 1,
+ "languages": [
+  [
+   "Kotlin",
+   1283457
+  ],
+  [
+   "Java",
+   55240
+  ],
+  [
+   "Python",
+   37459
+  ],
+  [
+   "Swift",
+   632
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 4
+ },
+ "pins": [
+  {
+   "name": "ghostly-vpn",
+   "url": "https://github.com/Nelxi/ghostly-vpn",
+   "text": "👻 Ghostly VPN — открытый VPN-клиент на Xray и mihomo для Android, Windows, macOS и Linux: живая ночная сцена, VLESS · Reality · XHTTP · Hysteria2 · Clash",
+   "fork": false,
+   "stars": 5,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "anti-censorship",
+    "compose-multiplatform",
+    "hysteria2",
+    "kotlin-multiplatform",
+    "reality",
+    "v2ray",
+    "vless",
+    "vpn",
+    "windows"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "ghostly-vpn",
+   "url": "https://github.com/Nelxi/ghostly-vpn",
+   "text": "👻 Ghostly VPN — открытый VPN-клиент на Xray и mihomo для Android, Windows, macOS и Linux: живая ночная сцена, VLESS · Reality · XHTTP · Hysteria2 · Clash",
+   "fork": false,
+   "stars": 5,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "anti-censorship",
+    "compose-multiplatform",
+    "hysteria2",
+    "kotlin-multiplatform",
+    "reality",
+    "v2ray",
+    "vless",
+    "vpn",
+    "windows"
+   ]
+  },
+  {
+   "name": "Nelxi",
+   "url": "https://github.com/Nelxi/Nelxi",
+   "text": "👻 Профиль Nelxi: Ghostly VPN и другие проекты",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AntiCrash-1.21.4",
+   "url": "https://github.com/Nelxi/AntiCrash-1.21.4",
+   "text": "Client-side Fabric mod that protects Minecraft players from malicious server exploits including particle spam, memory overflow attacks, and packet flooding. Keeps your game running even when servers try to crash you.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "NeuroVika",
+   "url": "https://github.com/Nelxi/NeuroVika",
+   "text": "Спустя время всё же решился выложить этот проект, он разрабатывался для личных целей просто чтобы общаться",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dd",
+   "url": "https://github.com/Nelxi/dd",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
