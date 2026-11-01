@@ -1,13 +1,13 @@
 {
- "key": "a59c4562",
+ "key": "46361db6",
  "stars": 8,
- "contributions": 133,
+ "contributions": 137,
  "repos": 5,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
-   1298996
+   1315535
   ],
   [
    "Java",
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 4,
     "day": 1,
     "today": true
    },
@@ -112,14 +112,14 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 4
  },
  "pins": [
   {
    "name": "ghostly-vpn",
    "url": "https://github.com/Nelxi/ghostly-vpn",
-   "text": "👻 Ghostly VPN — открытый VPN-клиент на Xray и mihomo для Android, Windows, macOS и Linux: живая ночная сцена, VLESS · Reality · XHTTP · Hysteria2 · Clash",
+   "text": "👻 Ghostly VPN — VPN-сервис ghostlynex.fun и его официальное приложение с открытым кодом: Android, Windows, macOS, Linux. Xray + mihomo: VLESS · Reality · XHTTP · Hysteria2 · Clash",
    "fork": false,
    "stars": 8,
    "language": "Kotlin",
@@ -141,7 +141,7 @@
   {
    "name": "ghostly-vpn",
    "url": "https://github.com/Nelxi/ghostly-vpn",
-   "text": "👻 Ghostly VPN — открытый VPN-клиент на Xray и mihomo для Android, Windows, macOS и Linux: живая ночная сцена, VLESS · Reality · XHTTP · Hysteria2 · Clash",
+   "text": "👻 Ghostly VPN — VPN-сервис ghostlynex.fun и его официальное приложение с открытым кодом: Android, Windows, macOS, Linux. Xray + mihomo: VLESS · Reality · XHTTP · Hysteria2 · Clash",
    "fork": false,
    "stars": 8,
    "language": "Kotlin",
