@@ -1,5 +1,5 @@
 {
- "key": "4a6a454b",
+ "key": "cafe664c",
  "stars": 8,
  "contributions": 138,
  "repos": 5,
@@ -106,9 +106,13 @@
    {
     "c": 1,
     "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
     "today": true
    },
-   null,
    null,
    null,
    null,
