@@ -1,13 +1,17 @@
 {
- "key": "275d08ef",
+ "key": "5f30c968",
  "stars": 9,
- "contributions": 146,
- "repos": 6,
+ "contributions": 153,
+ "repos": 7,
  "followers": 1,
  "languages": [
   [
    "Kotlin",
    1331368
+  ],
+  [
+   "Rust",
+   191245
   ],
   [
    "Java",
@@ -101,9 +105,13 @@
    {
     "c": 5,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -112,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [
@@ -155,6 +163,24 @@
     "v2ray",
     "vless",
     "vpn",
+    "windows"
+   ]
+  },
+  {
+   "name": "haunt",
+   "url": "https://github.com/Nelxi/haunt",
+   "text": "a ghost in your shell — fast, beautiful SSH client for Windows, written in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "egui",
+    "putty-alternative",
+    "rust",
+    "ssh",
+    "ssh-client",
+    "terminal",
+    "termius-alternative",
     "windows"
    ]
   },
