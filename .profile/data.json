@@ -1,6 +1,6 @@
 {
- "key": "9c553592",
- "stars": 9,
+ "key": "4a80eb4a",
+ "stars": 10,
  "contributions": 198,
  "repos": 7,
  "followers": 2,
@@ -125,14 +125,18 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 0,
   "longest": 5
  },
  "pins": [
@@ -141,7 +145,7 @@
    "url": "https://github.com/Nelxi/ghostly-vpn",
    "text": "👻 Ghostly VPN — VPN-сервис ghostlyvpn.com и его официальное приложение с открытым кодом: Android, Windows, macOS, Linux. Xray + mihomo: VLESS · Reality · XHTTP · Hysteria2 · Clash",
    "fork": false,
-   "stars": 9,
+   "stars": 10,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -163,7 +167,7 @@
    "url": "https://github.com/Nelxi/ghostly-vpn",
    "text": "👻 Ghostly VPN — VPN-сервис ghostlyvpn.com и его официальное приложение с открытым кодом: Android, Windows, macOS, Linux. Xray + mihomo: VLESS · Reality · XHTTP · Hysteria2 · Clash",
    "fork": false,
-   "stars": 9,
+   "stars": 10,
    "language": "Kotlin",
    "topics": [
     "android",
