@@ -1,5 +1,5 @@
 {
- "key": "15800f13",
+ "key": "49727593",
  "stars": 10,
  "contributions": 201,
  "repos": 7,
@@ -125,14 +125,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 5
  },
  "pins": [
